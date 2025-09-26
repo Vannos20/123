@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacjaPogodowa", "StacjaPogodowa\StacjaPogodowa.csproj", "{A0F6F9A0-6E71-4C79-9E73-7624071FE93A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{8C544B81-C167-4224-9291-1657955DDD21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A0F6F9A0-6E71-4C79-9E73-7624071FE93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0F6F9A0-6E71-4C79-9E73-7624071FE93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0F6F9A0-6E71-4C79-9E73-7624071FE93A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C544B81-C167-4224-9291-1657955DDD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C544B81-C167-4224-9291-1657955DDD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C544B81-C167-4224-9291-1657955DDD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C544B81-C167-4224-9291-1657955DDD21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
